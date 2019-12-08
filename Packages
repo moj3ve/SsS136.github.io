@@ -1,0 +1,34 @@
+Package: com.shibuya.safariextender
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.shibuya.safariextender_0.0.1-1+debug_iphoneos-arm.deb
+Size: 45978
+MD5sum: 0712ff488b3335c22811309df8e03bf5
+SHA1: 7d7fa15cc656e8db205741727813d50793e8c2a1
+SHA256: a7d90376797b6239a5f213561520d0de58cb67e1c7f2dde47189bfc724fc8118
+SHA512: 0cb9189c57c5d2c711d6d632607c57296e05667cf1f13daeb4cd7cd8fd1b6c4784bb20712bf748c022941088565f0f8d119306fb3c9b06cd137fc8a161aa5928
+Description: Safari拡張ツール a12非対応 ios13、12で動作確認済
+Name: Safari Extender
+Author: shibuya
+
+Package: com.shibuya.sbextender
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.shibuya.sbextender_0.0.1-1+debug_iphoneos-arm.deb
+Size: 34902
+MD5sum: 3844921c211386469316ade1cf28e25c
+SHA1: 0c54e286d86cbd9694b2b9be436f65624cfa72b5
+SHA256: 354c835e3053d8a620554305030216e78526fad62ea6049701b6b2e4c17de5dd
+SHA512: f34c8477abae9d2fbe4b460e4f7ee3fefe5c702e450cbdc1e5d73b91c180c0ff704a2a43cef57fdcefaca2496bb6eff48dc00180de4ceabd74aa1583e19ba72f
+Description: Springboardをカスタマイズできます。
+Name: SB Extender (System Wide)
+Author: shibuya
+

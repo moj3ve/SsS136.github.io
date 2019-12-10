@@ -1,17 +1,17 @@
 Package: com.shibuya.safariextender
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.safariextender_0.0.1-1+debug_iphoneos-arm.deb
-Size: 45978
-MD5sum: 0712ff488b3335c22811309df8e03bf5
-SHA1: 7d7fa15cc656e8db205741727813d50793e8c2a1
-SHA256: a7d90376797b6239a5f213561520d0de58cb67e1c7f2dde47189bfc724fc8118
-SHA512: 0cb9189c57c5d2c711d6d632607c57296e05667cf1f13daeb4cd7cd8fd1b6c4784bb20712bf748c022941088565f0f8d119306fb3c9b06cd137fc8a161aa5928
-Description: Safari拡張ツール a12非対応 ios13、12で動作確認済
+Filename: ./debs/com.shibuya.safariextender_0.0.1-2+debug_iphoneos-arm.deb
+Size: 45862
+MD5sum: 4a22310346a160100b46082b9ce49196
+SHA1: 2f0af68ce939fce353f2c9e432901b9fd4d88089
+SHA256: 93f5a8861ac4df1d6ba06262bde26653e9d82f30da53338c840bf222b8673745
+SHA512: 4413577f9470d32c1b6dee424154b9f56877c3bfa7f687702a94d3a34e460662e2d391c47356ffb010e92080726944d6ba08990555150f1fd25ffe0c2c990f34
+Description: Safari extension tool a12 non-compliant ios13, 12 confirmed operation
 Name: Safari Extender
 Author: shibuya
 
@@ -23,46 +23,46 @@ Maintainer: shibuya
 Installed-Size: 304
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.shibuya.sbextender_0.0.1-1+debug_iphoneos-arm.deb
-Size: 34902
-MD5sum: 3844921c211386469316ade1cf28e25c
-SHA1: 0c54e286d86cbd9694b2b9be436f65624cfa72b5
-SHA256: 354c835e3053d8a620554305030216e78526fad62ea6049701b6b2e4c17de5dd
-SHA512: f34c8477abae9d2fbe4b460e4f7ee3fefe5c702e450cbdc1e5d73b91c180c0ff704a2a43cef57fdcefaca2496bb6eff48dc00180de4ceabd74aa1583e19ba72f
-Description: Springboardをカスタマイズできます。
+Size: 34858
+MD5sum: 14d2fe4ec11ee4d3c20bfe04f6b2f092
+SHA1: eaa907590cb862b1fb746faf341c3e4d19cfa4dc
+SHA256: ea7ad74a352268ee085cc1a89bf5a0c3fd6c829b38bc19b7774d98e12a6d7e76
+SHA512: e21fa563a87f7e721000d0d23a1bffa320869a0da63eb173d4a406f556c9329ecb8126af3eb8eb544c5986d2dc3062787e701f36f57b82abc55473654603f7ca
+Description: You can customize Springboard
 Name: SB Extender (System Wide)
 Author: shibuya
 
 Package: com.sss136.autolockcustom
 Architecture: iphoneos-arm
-Version: 0.0.1-9+debug
+Version: 0.0.1-10+debug
 Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 288
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.autolockcustom_0.0.1-9+debug_iphoneos-arm.deb
-Size: 32320
-MD5sum: 470dd305294941ee43a67e363bc5f8cb
-SHA1: f90a0d8c22dfd5cdfebbaa81c12018e34396d3ca
-SHA256: 13a5a29fa3b07dbbbfa58cae7896e30447b5886abbb576d1ee1b5af08bf790d0
-SHA512: 6231f73c4450603b4018ee7ac58865a98bc8d87b338347e84ae427c2e10d88dc66e778eed334f3c40e97262e81d85f252205ad1d31cc3dd371a2c82c308838dc
-Description: オートロック時間変更。オートロックの秒数なしにしてた場合動きません。
+Filename: ./debs/com.sss136.autolockcustom_0.0.1-10+debug_iphoneos-arm.deb
+Size: 32228
+MD5sum: 2f26eb24271d760d579f1f47b24efad8
+SHA1: 87b050df921cdba62ec4720e1ec2874e5f6ee24c
+SHA256: fb8b3b6e5582931b1c1d2ecdf03ad728250e7eba8c86a77ba8b5697184b4c6ef
+SHA512: 4e09087f0a090cf8150f4b7a4eac260f7292611dd5503bf729e7479655e8088b09c683c051a1b22e9616cfdd84c87b4e695eb62c807b3299ddde2804d39fb135
+Description: You can change the autolock seconds.
 Name: Autolock Custom
 Author: shibuya
 
 Package: com.sss136.easypornhub
 Architecture: iphoneos-arm
-Version: 0.0.1-7+debug
+Version: 0.0.1-8+debug
 Section: Tweaks
 Maintainer: yuto shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easypornhub_0.0.1-7+debug_iphoneos-arm.deb
-Size: 8354
-MD5sum: 2195a53b72df00d4d564e5ff67165c1e
-SHA1: 2016636bb20c74b404adce329c2ac3b86680c25b
-SHA256: 2d3dcaba7822bb33317443651aba52f17c20dda6c493b7b69fefcbbb9203c07d
-SHA512: c490da0f3229b84cf21bbd756084d2e18843747d78961c7ec7f41ab4fce04e5b678d194842bb3686b5e9e5a78dc11aa311112070c4daccd5a9d429ae778c067f
-Description: ステータスバー長押しでポルノハブに飛べます。
+Filename: ./debs/com.sss136.easypornhub_0.0.1-8+debug_iphoneos-arm.deb
+Size: 8310
+MD5sum: 10f60b97f9254668edd4f611c0968853
+SHA1: 3bd06b850d7d64074c2236797d70a8f015389b5b
+SHA256: 017a97f5248fc58cba4c25eea53cc14355e67db288cf7a82a61b674910689a7e
+SHA512: 56aaaaf0f19630208874d085e078e79f85599a3968389b7d63fc26c8c740b5fa0be86214bb5ed6bc0e2f80775608e4d08bbc7751b030d747f9af44fd599b0f39
+Description: You can go to pornhub by long pressing the status bar
 Name: Easy Pornhub
 Author: yuto shibuya
 

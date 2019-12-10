@@ -32,3 +32,20 @@ Description: Springboardをカスタマイズできます。
 Name: SB Extender (System Wide)
 Author: shibuya
 
+Package: com.sss136.autolockcustom
+Architecture: iphoneos-arm
+Version: 0.0.1-8+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.autolockcustom_0.0.1-8+debug_iphoneos-arm.deb
+Size: 32228
+MD5sum: 5d9ddd3df42aeef30bb2cfd2a665ee8a
+SHA1: af935746059c9ce40ab2ee92298ab36b0144d7d3
+SHA256: e0ea8d40912365fcd8875825d6b6e7d34211d4278ba00c1251678f2c7f2ba09a
+SHA512: 3d1d91990d08e6d6b8b9389c1dd6b06f9c2f08e46d0794679ad9f28dbccf51be59b61c6fd31d18a493ff2cd9e25f535b7a96b92f6765950ac3f6ca68a8587bd9
+Description: An awesome MobileSubstrate tweak!
+Name: Autolock Custom
+Author: shibuya
+

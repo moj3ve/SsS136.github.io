@@ -49,3 +49,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: Autolock Custom
 Author: shibuya
 
+Package: com.sss136.easypornhub
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: yuto shibuya
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.easypornhub_0.0.1-1+debug_iphoneos-arm.deb
+Size: 8294
+MD5sum: d6e18ebe00279fd027a7f3562162c4b6
+SHA1: bb9be15b0a7eb0cd0cd5832089df3c0b6e7e1a1c
+SHA256: 5e4717b6b02b6726dfaef191b69e6d25ec04361effc574520881b10acd4b961f
+SHA512: 991b55e3e627574e4f0f0a073e89c64133a3f5ee6cfb4391eb8dee1df871573745a34957fd4c3cb66c68a42334a94b5d21c4fe96ff353eda2779ce4b130d846a
+Description: An awesome MobileSubstrate tweak!
+Name: Easy Pornhub
+Author: yuto shibuya
+

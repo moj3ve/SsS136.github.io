@@ -51,18 +51,18 @@ Author: shibuya
 
 Package: com.sss136.easypornhub
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-7+debug
 Section: Tweaks
 Maintainer: yuto shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easypornhub_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8294
-MD5sum: d6e18ebe00279fd027a7f3562162c4b6
-SHA1: bb9be15b0a7eb0cd0cd5832089df3c0b6e7e1a1c
-SHA256: 5e4717b6b02b6726dfaef191b69e6d25ec04361effc574520881b10acd4b961f
-SHA512: 991b55e3e627574e4f0f0a073e89c64133a3f5ee6cfb4391eb8dee1df871573745a34957fd4c3cb66c68a42334a94b5d21c4fe96ff353eda2779ce4b130d846a
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.sss136.easypornhub_0.0.1-7+debug_iphoneos-arm.deb
+Size: 8354
+MD5sum: 2195a53b72df00d4d564e5ff67165c1e
+SHA1: 2016636bb20c74b404adce329c2ac3b86680c25b
+SHA256: 2d3dcaba7822bb33317443651aba52f17c20dda6c493b7b69fefcbbb9203c07d
+SHA512: c490da0f3229b84cf21bbd756084d2e18843747d78961c7ec7f41ab4fce04e5b678d194842bb3686b5e9e5a78dc11aa311112070c4daccd5a9d429ae778c067f
+Description: ステータスバー長押しでポルノハブに飛べます。
 Name: Easy Pornhub
 Author: yuto shibuya
 

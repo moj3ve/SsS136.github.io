@@ -37,14 +37,14 @@ Architecture: iphoneos-arm
 Version: 0.0.1-5+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 292
+Installed-Size: 304
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.shibuya.sbextender_0.0.1-5+debug_iphoneos-arm.deb
-Size: 34928
-MD5sum: 3a8e22098631d0a7828552aada75fccf
-SHA1: 3be57f0dd0156e7d4af367715132300582a14c91
-SHA256: 21629ddfb97cc245500559c8a634a23b64d66ab621fb6fe009557a0f739f9d16
-SHA512: 059690c54f0c9786b5009b47b810a45e5cb210142a9546e9a132b09333ce4515920a7a4e313d304973aafb212d40558abd19a6cf25db48df2a4fd8b55aace43b
+Size: 41498
+MD5sum: c119eb434b9f44d1f1d2389e11b0a53e
+SHA1: e7a609c3e0d4cbd6b5a3b7f82c910733d149e189
+SHA256: c7c4c189a889a20d4c75a3190dcca481c7b6a05fa180c234976d1535b71a7a9a
+SHA512: 00683639211c615d9763d47cfd5ee5e1c19946973e45a9fcbcc72a8329fe9e4b4a113f030a96616e1c792c246132c6f2a68621fca0ef6c5c47bc1c293526bfff
 Description: You can customize Springboard
 Name: SB Extender (System Wide)
 Author: shibuya
@@ -85,18 +85,18 @@ Author: yuto shibuya
 
 Package: com.sss136.padsystem
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.padsystem_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5212
-MD5sum: 209abc30b7bf11d2d47859353295100c
-SHA1: fc6c87683b58e00bf9a0b437b056bcf9a9213479
-SHA256: da3585b6aae1976871d5fcbc4752b541a7d88b1ffa164a60397cce5339767763
-SHA512: 7851093e965b3aabe02db3b61bcc716fba84b5285b0935251be22823cd14b1a70b0edb8c93219b3e898096bd386056feb9dc599616e95ccf28af9dca6926313e
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.sss136.padsystem_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5298
+MD5sum: 1fb375f7116935a554632dc67f2a663e
+SHA1: 8537dd8dd734ec4fd7f72bd941bb820ce84b25cf
+SHA256: 124f99b0bb2a9e0f341b9b2e34a2bca500c10d5b63a71e058be83b4011a4d3da
+SHA512: cab780f66c01f3dacdc1214ab8e2d7ed93e8f0d643d01a23d1dae8abdf092a8f514ec4df327f44c0bc7e4139825ed0dca1a685ddeeea8e3e873d97c139c916a5
+Description: システム全体をiPad風にします。アプリによってiPadになるものならないものがあります。
 Name: Pad System
 Author: shibuya
 

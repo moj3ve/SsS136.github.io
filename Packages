@@ -1,3 +1,20 @@
+Package: com.shibu.gridstyle
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibu
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.shibu.gridstyle_0.0.1-1+debug_iphoneos-arm.deb
+Size: 11902
+MD5sum: bb63f6c394a8eb01d9a4a7a3cc01bff6
+SHA1: 00a8b0ae0385b3d4c196f4c8514fc43a7b44725d
+SHA256: d249098b929755d86f49e1b2b34e14e8fb7c95e1d0de318db502d971bdb44529
+SHA512: 46497faa2c900c31b56e2d3abc9a87cb91a8d5bfb07844e6cef4e6b80e3cc759e71f7825c3e8feb76ca788ae16de56bdc46a75566965bcb9920dfd0827d342b7
+Description: スタイル変更
+Name: gridstyle
+Author: shibu
+
 Package: com.shibuya.safariextender
 Architecture: iphoneos-arm
 Version: 0.0.1-2+debug
@@ -17,17 +34,17 @@ Author: shibuya
 
 Package: com.shibuya.sbextender
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-5+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 304
+Installed-Size: 292
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.sbextender_0.0.1-1+debug_iphoneos-arm.deb
-Size: 34858
-MD5sum: 14d2fe4ec11ee4d3c20bfe04f6b2f092
-SHA1: eaa907590cb862b1fb746faf341c3e4d19cfa4dc
-SHA256: ea7ad74a352268ee085cc1a89bf5a0c3fd6c829b38bc19b7774d98e12a6d7e76
-SHA512: e21fa563a87f7e721000d0d23a1bffa320869a0da63eb173d4a406f556c9329ecb8126af3eb8eb544c5986d2dc3062787e701f36f57b82abc55473654603f7ca
+Filename: ./debs/com.shibuya.sbextender_0.0.1-5+debug_iphoneos-arm.deb
+Size: 34928
+MD5sum: 3a8e22098631d0a7828552aada75fccf
+SHA1: 3be57f0dd0156e7d4af367715132300582a14c91
+SHA256: 21629ddfb97cc245500559c8a634a23b64d66ab621fb6fe009557a0f739f9d16
+SHA512: 059690c54f0c9786b5009b47b810a45e5cb210142a9546e9a132b09333ce4515920a7a4e313d304973aafb212d40558abd19a6cf25db48df2a4fd8b55aace43b
 Description: You can customize Springboard
 Name: SB Extender (System Wide)
 Author: shibuya
@@ -65,4 +82,21 @@ SHA512: 56aaaaf0f19630208874d085e078e79f85599a3968389b7d63fc26c8c740b5fa0be86214
 Description: You can go to pornhub by long pressing the status bar
 Name: Easy Pornhub
 Author: yuto shibuya
+
+Package: com.sss136.padsystem
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.padsystem_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5212
+MD5sum: 209abc30b7bf11d2d47859353295100c
+SHA1: fc6c87683b58e00bf9a0b437b056bcf9a9213479
+SHA256: da3585b6aae1976871d5fcbc4752b541a7d88b1ffa164a60397cce5339767763
+SHA512: 7851093e965b3aabe02db3b61bcc716fba84b5285b0935251be22823cd14b1a70b0edb8c93219b3e898096bd386056feb9dc599616e95ccf28af9dca6926313e
+Description: An awesome MobileSubstrate tweak!
+Name: Pad System
+Author: shibuya
 

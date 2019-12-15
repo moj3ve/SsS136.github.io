@@ -100,3 +100,20 @@ Description: システム全体をiPad風にします。アプリによってiPa
 Name: Pad System
 Author: shibuya
 
+Package: com.sss136.sixicondockxii
+Architecture: iphoneos-arm
+Version: 0.0.1-15+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.sixicondockxii_0.0.1-15+debug_iphoneos-arm.deb
+Size: 7846
+MD5sum: 8878e655b3d8960f327f03230676a5a1
+SHA1: 52d9681a4cdef9536cf2fe00c08b6b16dc0cb296
+SHA256: b46740c30b6383224f3c9353808e577d5c81c067fcd745d6877601ffd69f283e
+SHA512: dfc95961aedc7e1c5367e0de9d5fe4933890e5f608996a5e052fa8483b4f06be8f56a8aad8fbefd64ce91c9397e0529cb12a0bbc061119e9ecf1bdb7d5c1bfe9
+Description: ドックを最大6つ配置できます。
+Name: SixIconDockXII
+Author: shibuya
+

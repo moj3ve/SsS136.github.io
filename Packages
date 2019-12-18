@@ -66,6 +66,23 @@ Description: You can change the autolock seconds.
 Name: Autolock Custom
 Author: shibuya
 
+Package: com.sss136.easychangeapp
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.easychangeapp_0.0.1-2+debug_iphoneos-arm.deb
+Size: 34586
+MD5sum: 64b1f856822136a14cb2e2f3b4966082
+SHA1: 74d76c89d3cbda92d3248f76ed2980853507b5c2
+SHA256: 257e1994299fdbb3bc71975fdd1f3bd5e14dca529981d814f554bb4b9fca4fff
+SHA512: e3dbbcfb0a5b4e9a1991a8199793b0e845ee87cca02325d6fbb8143487ee638fdf5b5ef64aea6aa804b6d26c6e32903b4e307556ddee606c3d61edf39a68f9d9
+Description: ステータスバー長押し、タップでアプリにとべます。
+Name: Easy Change App
+Author: shibuya
+
 Package: com.sss136.easypornhub
 Architecture: iphoneos-arm
 Version: 0.0.1-8+debug

@@ -34,20 +34,20 @@ Author: shibuya
 
 Package: com.shibuya.sbextender
 Architecture: iphoneos-arm
-Version: 0.0.1-4+debug
+Version: 0.0.1-5+debug
 Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 352
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.sbextender_0.0.1-4+debug_iphoneos-arm.deb
-Size: 71348
-MD5sum: 4e04dfbfd4dd7805947e1d42afbd1b5f
-SHA1: e61039e21ae4d974ce2c8d262a3d989b6f733478
-SHA256: 0264166cd2cdfdca529c0ff629d3ee0e37f5687458d4aec1c943c649b1636278
-SHA512: c7629637c1674e2164e78b23cbb9280b083f11801bb12f5af933abe2eea216b178cdea334bf9421653cc204fbbb073e63a2790389c3c4c53013e31be524aad5d
+Filename: ./debs/com.shibuya.sbextender_0.0.1-5+debug_iphoneos-arm.deb
+Size: 71336
+MD5sum: 67da9c07d6adaaa9878c2f03cb675dcb
+SHA1: 1740026d96663fa45383cf67033d9db47813b61c
+SHA256: 5ff5cc041abdb8f8e7651eee134284b06e3804f500ec8442f79a048c1954ea4d
+SHA512: 92bfcaab0dcddc5b4c57fc74058893274fd900db6f4daf80634620a93407e9299730240109b51e57be9e86bf8e2dd9cc108ac92791aa13c6ad5a8fdda3a518ed
 Description: You can customize Springboard
 Name: SB Extender (System Wide)
-Depiction: https://github.com/SsS136/SsS136.github.io/blob/master/descriptions/sbextender/index.html
+Depiction: https://github.com/SsS136.github.io/descriptions/sbextender/index.html
 Author: shibuya
 
 Package: com.sss136.autolockcustom

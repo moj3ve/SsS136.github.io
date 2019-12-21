@@ -17,17 +17,17 @@ Author: shibu
 
 Package: com.shibuya.safariextender
 Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
+Version: 0.0.1-9+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 316
+Installed-Size: 612
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.safariextender_0.0.1-2+debug_iphoneos-arm.deb
-Size: 45862
-MD5sum: 4a22310346a160100b46082b9ce49196
-SHA1: 2f0af68ce939fce353f2c9e432901b9fd4d88089
-SHA256: 93f5a8861ac4df1d6ba06262bde26653e9d82f30da53338c840bf222b8673745
-SHA512: 4413577f9470d32c1b6dee424154b9f56877c3bfa7f687702a94d3a34e460662e2d391c47356ffb010e92080726944d6ba08990555150f1fd25ffe0c2c990f34
+Filename: ./debs/com.shibuya.safariextender_0.0.1-9+debug_iphoneos-arm.deb
+Size: 64524
+MD5sum: 2badd74766efd3cd1a9e356ec25ae8d5
+SHA1: 7086d2e3c582c4018113d117b02619e4cc61f799
+SHA256: 732537b432ed175da92538bce86ced74ffa23a7d0a54ef5dcf05b588e2924662
+SHA512: dac6bd7b33a641988eef57e2f265acbfd03abb8ce55423060e080db9024b6e0ffd05f4516722d3274665bee35efbaf09df3926b23bd5067cd41005102b6d5cdd
 Description: Safari extension tool a12 non-compliant ios13, 12 confirmed operation
 Name: Safari Extender
 Author: shibuya
@@ -52,34 +52,34 @@ Author: shibuya
 
 Package: com.sss136.autolockcustom
 Architecture: iphoneos-arm
-Version: 0.0.1-10+debug
+Version: 0.0.1-11+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 288
+Installed-Size: 604
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.autolockcustom_0.0.1-10+debug_iphoneos-arm.deb
-Size: 32228
-MD5sum: 2f26eb24271d760d579f1f47b24efad8
-SHA1: 87b050df921cdba62ec4720e1ec2874e5f6ee24c
-SHA256: fb8b3b6e5582931b1c1d2ecdf03ad728250e7eba8c86a77ba8b5697184b4c6ef
-SHA512: 4e09087f0a090cf8150f4b7a4eac260f7292611dd5503bf729e7479655e8088b09c683c051a1b22e9616cfdd84c87b4e695eb62c807b3299ddde2804d39fb135
-Description: You can change the autolock seconds.
+Filename: ./debs/com.sss136.autolockcustom_0.0.1-11+debug_iphoneos-arm.deb
+Size: 56114
+MD5sum: 2677959b38924f357a669d2c3bd93802
+SHA1: 190c3f0ceca2f05136ce12e893beabbf237471da
+SHA256: 99fbda6238a1f9c4291b3fd12cf8730a213601e22b76a5e047950655d7c4774a
+SHA512: 3143dc460426a5bb27cdb6d80daab8d26bf353e40afb4611327f4fea4e8084d8a73b1af91e05abf78cd4cbb14c92992e02506440c4a4eec48fff593f714bc9a8
+Description: You can change the autolock seconds.supported a12
 Name: Autolock Custom
 Author: shibuya
 
 Package: com.sss136.easychangeapp
 Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
+Version: 0.0.1-1+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 272
+Installed-Size: 552
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easychangeapp_0.0.1-2+debug_iphoneos-arm.deb
-Size: 34586
-MD5sum: 64b1f856822136a14cb2e2f3b4966082
-SHA1: 74d76c89d3cbda92d3248f76ed2980853507b5c2
-SHA256: 257e1994299fdbb3bc71975fdd1f3bd5e14dca529981d814f554bb4b9fca4fff
-SHA512: e3dbbcfb0a5b4e9a1991a8199793b0e845ee87cca02325d6fbb8143487ee638fdf5b5ef64aea6aa804b6d26c6e32903b4e307556ddee606c3d61edf39a68f9d9
+Filename: ./debs/com.sss136.easychangeapp_0.0.1-1+debug_iphoneos-arm.deb
+Size: 46176
+MD5sum: 35134387687cfe553a43dac37d7e2bfb
+SHA1: 0d69a6ea8f759a06829887e00831b58c62c2c10d
+SHA256: 05119c9983bb7f6b5fb39cb254912f45ca788ec32923fbbbd87c6eeade06c677
+SHA512: 7874cd9f9007bab14386281c7fa7a766503eccbdd621f43944976bd38b7b54a59e34691903c032e9ab5198a1a80b6b865b31c05a9a52586c85ac2938be17ddfd
 Description: ステータスバー長押し、タップでアプリにとべます。
 Name: Easy Change App
 Author: shibuya

@@ -135,19 +135,36 @@ Description: ドックを最大6つ配置できます。
 Name: SixIconDockXII
 Author: shibuya
 
-Package: org.sss136.youtubeextender
+Package: com.sss136.status
 Architecture: iphoneos-arm
-Version: 0.0.1-9+debug
+Version: 0.0.1-1+debug
 Section: Tweaks
 Maintainer: shibuya
-Installed-Size: 460
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.status_0.0.1-1+debug_iphoneos-arm.deb
+Size: 24018
+MD5sum: 136a5759e50e8729687bf4402047d1e8
+SHA1: 64c6bbf88b8a807433db90138fc9f555e9f5e075
+SHA256: 9431132a8f7e5099a3efad6a178b75e0ee481d5b22e1c097a591d31248f69e78
+SHA512: fddfb788089246be0b73c4bdbb79c7504b8d598b26c2268b5435a70c29cbcf86c34b8d56767b442bfab9db90b2fb74a753c5dec063e08b12541bcbed85f0f978
+Description: change status bar color
+Name: CusromStatusBar13
+Author: shibuya
+
+Package: org.sss136.youtubeextender
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 316
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/org.sss136.youtubeextender_0.0.1-9+debug_iphoneos-arm.deb
-Size: 46344
-MD5sum: 9a0df918fddafb8c25ca073f9e93d097
-SHA1: 405bc675add377453aa171031248fa5a6f4b7ade
-SHA256: da603ced51627ff498f41eb69979a44d7a01651b9bfa8d4bb2324ad7c48ed8c2
-SHA512: 16bb06a0b0343bed312c5f5f561dd11afe9190a717017cad5d549db06feb5c0d01cd360436c436d5db4d03208d8454cc1d002b1a329c57e906ffd483e7d7fc8d
+Filename: ./debs/org.sss136.youtubeextender_0.0.1-1+debug_iphoneos-arm.deb
+Size: 30722
+MD5sum: 940cb46fa117f8d8db029ce79f471fbc
+SHA1: 817e5aaa9fcfce38dea85386aee446295e73b5f9
+SHA256: 00c4cdbbe69971f3eff6471b283bebf90a3cd80f5e40f783098030cdd2871548
+SHA512: 2f5f3632a79f403a36f2cb0d4764387f4d16eb643b1eea2c2d4325094d01f52cb339d940126ee91b67dec28289ded1fd2ea6d22dcba162fa5d41171d3a4c2e13
 Description: Youtube Extend Tool
 Name: Youtube Extender
 Author: shibuya

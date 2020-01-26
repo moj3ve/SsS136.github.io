@@ -101,6 +101,23 @@ Description: You can go to pornhub by long pressing the status bar
 Name: Easy Pornhub
 Author: yuto shibuya
 
+Package: com.sss136.linecustomizer
+Architecture: iphoneos-arm
+Version: 0.0.1-7+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.sss136.linecustomizer_0.0.1-7+debug_iphoneos-arm.deb
+Size: 28828
+MD5sum: b8fa3fa73159677370d1b89eaffe363e
+SHA1: 6949f2fdd0fc6f7c8cce48742c091fbb648c34d3
+SHA256: 35db1e58ed48d58a878f6fbdb7622e2834a332e679ae874c8ebd1e9c3cda83fc
+SHA512: aded09c3aef01eb6b8a93d911d35ec0e03c59de0480c0ab5d1d92f76e149be9249866731a8c2b6e2996ee691b268536e7cba19591e49674dcb7c12276150f80f
+Description: An awesome MobileSubstrate tweak!
+Name: LINE Customizer(CCSupport)
+Author: shibuya
+
 Package: com.sss136.padsystem
 Architecture: iphoneos-arm
 Version: 0.0.1-2+debug

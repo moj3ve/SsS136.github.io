@@ -50,6 +50,7 @@ Name: SB Extender (System Wide)
 Depiction: https://SsS136.github.io/descriptions/sbextender/index.html
 Author: shibuya
 
+<<<<<<< HEAD
 Package: com.sss136.askunread
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -67,6 +68,8 @@ Description: An awesome MobileSubstrate tweak!
 Name: AskUnread?
 Author: shibuya
 
+=======
+>>>>>>> origin/master
 Package: com.sss136.autolockcustom
 Architecture: iphoneos-arm
 Version: 0.0.1-11+debug
@@ -186,6 +189,7 @@ Description: change status bar color
 Name: CusromStatusBar13
 Author: shibuya
 
+<<<<<<< HEAD
 Package: com.sss136.ytallblacks
 Architecture: iphoneos-arm
 Version: 0.0.1-6+debug
@@ -203,6 +207,8 @@ Description: An awesome MobileSubstrate tweak!
 Name: YTAllBlacks
 Author: shibuya
 
+=======
+>>>>>>> origin/master
 Package: org.sss136.youtubeextender
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug

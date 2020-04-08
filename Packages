@@ -68,6 +68,24 @@ Name: AskUnread?
 Depiction: https://SsS136.github.io/descriptions/askunread/index.html
 Author: shibuya
 
+Package: com.sss136.askunread
+Architecture: iphoneos-arm
+Version: 0.0.1-8+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 328
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.askunread_0.0.1-8+debug_iphoneos-arm.deb
+Size: 53568
+MD5sum: 8063b3bf441c0d8e222c4bf63c7b9da7
+SHA1: b7cd92fd47b7f56657b50602e245a81b1e58e69b
+SHA256: 9cf38ac56e5b4ab70a50850d7aaf4461fb593f446155e0407b77948585865c4e
+SHA512: c63372bbdc2f205fe30e901668be15228a1043f74346d17f8db781d356a2db08a0fd6ffbd67d2c611caa88f2d2910db61296b42cf314e289d6dac72eed20b73d
+Description: An awesome MobileSubstrate tweak!
+Name: AskUnread?
+Depiction: https://SsS136.github.io/descriptions/askunread/index.html
+Author: shibuya
+
 Package: com.sss136.autolockcustom
 Architecture: iphoneos-arm
 Version: 0.0.1-11+debug

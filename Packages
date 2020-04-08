@@ -52,37 +52,20 @@ Author: shibuya
 
 Package: com.sss136.askunread
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-7+debug
 Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.askunread_0.0.1-1+debug_iphoneos-arm.deb
-Size: 51154
-MD5sum: c3055937376c425db69c262d0a7033e9
-SHA1: 6363ec27013232581d2909999efdf3b278ed4a3d
-SHA256: 5736203858b6cf235867ae3ec5c7515e9a6742df54c50a6a5fca52d4332fc6a2
-SHA512: 861f0f6727141259b3b9c2bdab1859664c27f1dd710b894592aa9b1733b07bf5dcdd7b6ad1712431078edeccecbc2a7e624107c36839d5edc858b39930babb67
+Filename: ./debs/com.sss136.askunread_0.0.1-7+debug_iphoneos-arm.deb
+Size: 53582
+MD5sum: 7612f7c7998668d1d1d008b60624ecea
+SHA1: b0c5d421893b680432bc8a70f04cd4d18b1876a1
+SHA256: f2876e7fd331c45b95398271170af1694a5810d698a74e97fe8ac99ade08d595
+SHA512: 793f968d705cb4dc175a860d5c61830221f76e112c707db37576abdb80324c4c72dcdb1769fcb4600e2025d72896b4dd1097a65c2c7426f0521cc169d7b9806a
 Description: An awesome MobileSubstrate tweak!
 Name: AskUnread?
-Author: shibuya
-
-Package: com.sss136.askunread
-Architecture: iphoneos-arm
-Version: 0.0.1-6+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 328
-Depends: mobilesubstrate
-Filename: ./debs/com.sss136.askunread_0.0.1-6+debug_iphoneos-arm.deb
-Size: 53560
-MD5sum: 5517f8a253ce8666d55a85bd434798f5
-SHA1: 4116f9ac3b497677ebbb408d522e88ff980672ee
-SHA256: 768c48b9a83122c8052813fdce91a49b600e6d40d4fb83ac3ee94a89fd5fbc78
-SHA512: b7e4ca72c2c6e8a8821a11129e35cbe057ea337aa767208153531731972e4f6c3fa5f5aaa0c9e0d7df2f1aa7dfa02b5b5abd9d571e5498df4e13715c80611569
-Description: An awesome MobileSubstrate tweak!
-Name: AskUnread?
-Depiction: https://SsS136.github.io/descriptions/AskUnread?/index.html
+Depiction: https://SsS136.github.io/descriptions/askunread/index.html
 Author: shibuya
 
 Package: com.sss136.autolockcustom

@@ -137,6 +137,24 @@ Description: You can go to pornhub by long pressing the status bar
 Name: Easy Pornhub
 Author: yuto shibuya
 
+Package: com.sss136.filzacodingpro
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: SsS136
+Installed-Size: 744
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.filzacodingpro_0.0.1-1+debug_iphoneos-arm.deb
+Size: 172908
+MD5sum: a683c52c287ca24ddff6e5eb56415213
+SHA1: 810046ab37dfd0c196d66441ae44dda534060829
+SHA256: 0742179ce46d388bb60f89fb07bc502c1111d4f3172d4b7c3da38c73704df2a3
+SHA512: 96d6f16daf1727403f2453e9cddb11ff54ed7316f3a4eb80fa5575192e3cee53537bd9869fd8dcc94dafd64f7471ebce156dd74022186347d285e0c12b9991af
+Description: Filza for programer
+Name: Filza Coding Pro
+Depiction: https://SsS136.github.io/descriptions/FilzaCodingPro/index.html
+Author: SsS136
+
 Package: com.sss136.linecustomizer
 Architecture: iphoneos-arm
 Version: 0.0.1-7+debug
